@@ -2,9 +2,9 @@
 
 Este é o esquema de conexións de **Luci**:
 
-![Conexionado Luci](Luci_conexións.svg)
+![Conexionado Luci](Luci_conexi%C3%B3ns.svg)
 
-Está feito con [Fritzing](https://fritzing.org) e tes o ficheiro editable [dispoñible para descarga](Luci_conexións.fzz).
+Está feito con [Fritzing](https://fritzing.org) e tes o ficheiro editable [dispoñible para descarga](Luci_conexi%C3%B3ns.fzz).
 
 Este é o resumo de conexións entre os pins de cada **dispositivo** (á esquerda) e os pins do **Arduino Nano** (á dereita):
 
