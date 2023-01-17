@@ -55,7 +55,7 @@ Na carpeta [`Electrónica`](Electrónica) atoparás o esquema de conexionado, cr
 
 Na carpeta [`Programación`](Programación) atoparás todo o relativo ao apartado de programación, ainda que a [**biblioteca programable e o Firmware**](https://github.com/roboteach-es/escornabot-lib) teñen o seu propio repositorio específico.
 
-[![Biblioteca Arduino](imaxes/Arduino-libraries.png)](https://github.com/roboteach-es/escornabot-lib)
+[![Biblioteca Arduino](imaxes/Arduino2-libraries.png)](https://github.com/roboteach-es/escornabot-lib)
 
 ### BITÁCORA
 
