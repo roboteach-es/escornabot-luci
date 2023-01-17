@@ -49,7 +49,7 @@ O compoñente central de Luci é o [PowerBank-DIY](POWERBANK.md), que está docu
 
 Na carpeta [`Electrónica`](Electrónica) atoparás o esquema de conexionado, creado con [Fritzing](https://fritzing.org).
 
-![Connections](Electrónica/Luci_conexións.png)
+![Connections](Electr%C3%B3nica/Luci_conexi%C3%B3ns.svg)
 
 ### SOFTWARE
 
